@@ -1,0 +1,2 @@
+cd %~dp0\Calc_jar
+java -jar Calc.jar
